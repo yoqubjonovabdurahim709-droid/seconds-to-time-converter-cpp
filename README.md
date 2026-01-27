@@ -1,4 +1,4 @@
-# seconds-t## Seconds to Time Converter (C++)
+ Seconds to Time Converter (C++)
 
 This program converts total seconds into hours, minutes, and seconds.
 It uses functions and input validation.
